@@ -1,4 +1,6 @@
 # AVATAR Voice Assistant
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 AVATAR is an advanced voice-controlled virtual assistant built with Python. It can perform various tasks like web searches, playing music, setting reminders, sending emails/WhatsApp messages, answering queries, and more.
 
@@ -112,16 +114,13 @@ CONTACTS = {
 - "Play my workout playlist"
 - "Remind me to water plants in 2 hours"
 
-## AVATAR Voice Assistant 🤖
+## AVATAR Interface 🤖
 
 ![Screenshot 2025-06-07 221922](https://github.com/user-attachments/assets/7ec48be7-6b45-49c4-b766-dc5bf7238261)
-*Live Demo of AVATAR in Action*
 
-## Features ✨
+## 📜 License
+- AVATAR is licensed under the MIT License.
 
-| Feature | Description |
-|---------|-------------|
-| Voice Interaction | Natural language processing with animated feedback |
-| Smart Knowledge | Wolfram Alpha and Wikipedia integration |
-| Media Control | Play local music or YouTube videos |
-| Communications | Send emails and WhatsApp messages |
+## 🤖 Contribution
+- Contributions are welcome! Feel free to submit issues or pull requests.
+
