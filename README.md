@@ -118,6 +118,9 @@ CONTACTS = {
 
 ![Screenshot 2025-06-07 221922](https://github.com/user-attachments/assets/7ec48be7-6b45-49c4-b766-dc5bf7238261)
 
+## AVATAR Demo Video
+[Click Here to see the Demo Video](https://www.linkedin.com/posts/dishanksingh29_ai-python-voiceassistant-activity-7337473715200282624-ZCkp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnD5boBuENKCr-Ncd2lCmqVZUdCFvBv1Fs)
+
 ## 📜 License
 - AVATAR is licensed under the MIT License.
 
