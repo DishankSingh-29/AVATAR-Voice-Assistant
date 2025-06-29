@@ -139,7 +139,7 @@ AVATAR-Voice-Assistant/
 
 ## AVATAR Interface 🤖
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7ec48be7-6b45-49c4-b766-dc5bf7238261" width="800" height="450" />
+  <img src="https://github.com/user-attachments/assets/7ec48be7-6b45-49c4-b766-dc5bf7238261"/>
 </div>
 
 
