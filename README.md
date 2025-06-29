@@ -5,6 +5,62 @@
 
 **AVATAR** is an intelligent voice assistant designed to make your digital life easier. With natural language processing and a friendly interface, it can perform various tasks from web searches to system control—all through voice commands.
 
+# 🚀 Tech Stack
+
+## Core Technologies
+
+### Voice Processing
+| Library               | Purpose                                                                 |
+|-----------------------|-------------------------------------------------------------------------|
+| `speech_recognition`  | Converts microphone input to text using Google's speech recognition API |
+| `pyttsx3`             | Offline text-to-speech synthesis (cross-platform)                       |
+| `pygame`              | Audio playback for local music files                                    |
+
+### Web & API Integrations
+| Library               | Purpose                                                                 |
+|-----------------------|-------------------------------------------------------------------------|
+| `webbrowser`          | Opens web URLs (YouTube, Google, etc.)                                 |
+| `requests` + `json`   | Fetches data from OpenWeatherMap API                                   |
+| `wolframalpha`        | Answers computational/factual queries                                  |
+| `wikipedia`           | Retrieves knowledge summaries                                         |
+| `smtplib` + `email`   | Sends emails via Gmail SMTP                                            |
+
+### GUI Development
+| Library               | Purpose                                                                 |
+|-----------------------|-------------------------------------------------------------------------|
+| `tkinter`             | Creates desktop interface (windows, buttons, labels)                   |
+| `Pillow` (PIL)        | Handles image/GIF manipulation for animations                         |
+| `scrolledtext`        | Displays scrollable conversation history                              |
+
+## Key Features
+
+✨ **Voice Control**  
+- Natural language commands for music, web search, reminders, emails  
+- Offline text-to-speech capability  
+
+🌐 **Smart Integrations**  
+- Wolfram Alpha for calculations  
+- Wikipedia for general knowledge  
+- OpenWeatherMap for weather data  
+
+💻 **Desktop Interface**  
+- Interactive GUI with real-time feedback  
+- Visual animations for listening/speaking states  
+
+## API Services
+
+| Service               | Purpose                                | Key Required  |
+|-----------------------|----------------------------------------|---------------|
+| OpenWeatherMap        | Real-time weather data                 | `OPENWEATHER_API_KEY` |
+| Wolfram Alpha         | Computational knowledge engine         | `WOLFRAM_APP_ID`     |
+| Gmail SMTP            | Email sending functionality            | `EMAIL_PASSWORD`     |
+
+## Development Dependencies
+
+```bash
+pip install speechrecognition pyttsx3 pygame requests wolframalpha wikipedia pyjokes Pillow
+```
+
 ## ✨ Features
 
 - **Voice Interaction**: Speak naturally and get responses
@@ -83,7 +139,7 @@ AVATAR-Voice-Assistant/
 
 ## AVATAR Interface 🤖
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7ec48be7-6b45-49c4-b766-dc5bf7238261" width="700" height="400" />
+  <img src="https://github.com/user-attachments/assets/7ec48be7-6b45-49c4-b766-dc5bf7238261" width="800" height="450" />
 </div>
 
 
